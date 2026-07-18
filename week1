@@ -4,7 +4,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "authorship_tag": "ABX9TyNYtY6+7k6a1w03pLXubMrR",
+      "authorship_tag": "ABX9TyMq5lK157MlUXhSMRwbOtL8",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -28,7 +28,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 1,
+      "execution_count": null,
       "metadata": {
         "id": "wDGPK1qfqDl2"
       },
@@ -49,7 +49,7 @@
         "id": "Q98bKcAOqFsL",
         "outputId": "19d9540d-c377-4403-d606-bea96350ee26"
       },
-      "execution_count": 2,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -59,6 +59,22 @@
           ]
         }
       ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [],
+      "metadata": {
+        "id": "wcmwkW_-gFXk"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "dleONynqgGwF"
+      },
+      "execution_count": null,
+      "outputs": []
     },
     {
       "cell_type": "code",
@@ -73,7 +89,7 @@
         "id": "fYZSasTxsHfK",
         "outputId": "e7e567b6-7931-4623-9235-3ef43fec34f7"
       },
-      "execution_count": 4,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -98,7 +114,7 @@
         "id": "OVAlbJJIsMav",
         "outputId": "40a34d01-0f90-4240-8dc7-0255a07764c0"
       },
-      "execution_count": 6,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -121,7 +137,7 @@
         "id": "wAggclvetleo",
         "outputId": "22645631-65ad-4c2a-bc76-bf2890cc82b1"
       },
-      "execution_count": 7,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -144,7 +160,7 @@
         "id": "DnGoxH_qt2jc",
         "outputId": "c44ac1af-f451-4be0-9b19-6a63220c2a0b"
       },
-      "execution_count": 8,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -169,7 +185,7 @@
         "id": "wdAC4aUquPER",
         "outputId": "acecc2c3-69f7-4844-8214-d994adb6651f"
       },
-      "execution_count": 10,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -192,7 +208,7 @@
         "id": "pIrAmUAvuQpc",
         "outputId": "5e72e7ff-ad4d-42a2-dea6-1c2887a13a5c"
       },
-      "execution_count": 16,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -215,7 +231,7 @@
         "id": "qKHzWSFx-GwQ",
         "outputId": "c62ab94d-7c8a-4693-93a3-cea9e599b9b1"
       },
-      "execution_count": 17,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -238,7 +254,7 @@
         "id": "lykFOipy-VhK",
         "outputId": "68d11620-3da0-4993-d9e3-cc58cc22fe71"
       },
-      "execution_count": 19,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -261,7 +277,7 @@
         "id": "iLmWzJr4_MTm",
         "outputId": "dff31080-9c0d-4a92-beeb-d6bf35d14441"
       },
-      "execution_count": 20,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -286,7 +302,7 @@
         "id": "Ysy6AC8CBnxm",
         "outputId": "d4d2bed6-bb41-4e47-ad8f-4fbb105b2cb5"
       },
-      "execution_count": 22,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -311,7 +327,7 @@
         "id": "cUK46RktDQUA",
         "outputId": "3089c5a2-9f11-4f06-ec34-18b73b0735c7"
       },
-      "execution_count": 26,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -337,7 +353,7 @@
         "id": "aoQY0XLfF47S",
         "outputId": "b9599e66-339a-4b5e-afdb-80005e0afc3e"
       },
-      "execution_count": 30,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -361,7 +377,7 @@
         "id": "Qn_2jKHKwXsU",
         "outputId": "438fc653-1a3e-4635-b4f4-e2aadf2f734f"
       },
-      "execution_count": 15,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -386,7 +402,7 @@
         "id": "_lhHHaaOXHQh",
         "outputId": "c70c3f8c-cc97-4453-b615-b062b4910a4f"
       },
-      "execution_count": 42,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -400,10 +416,41 @@
     {
       "cell_type": "code",
       "source": [
-        "\n"
+        "#Intentionally create an IndentationError by mixing spaces and tabs, then write down how you resolved it.\n",
+        "\n",
+        "x=int(input(\"Enter your age: \"))\n",
+        "\n",
+        "if x>=50:\n",
+        "  print(\" You are Senior Citizen\")\n",
+        "\n",
+        "    elif x>=20 and x<50: #no indentation is required for elif\n",
+        "      print(\" You are Adult\") #no indentation is required for elif print function\n",
+        "\n",
+        "        else:  ##no indentation is required for else, as it is for elif\n",
+        "          print(\" You are GenZ! \")  ##no indentation is required for else, as it is for elif print\n"
       ],
       "metadata": {
         "id": "I9E1h79farhJ"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "#Write a multi-line comment describing your daily routine.\n"
+      ],
+      "metadata": {
+        "id": "rz0FxqCenOBn"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "ro4FreglnU__"
       },
       "execution_count": null,
       "outputs": []
