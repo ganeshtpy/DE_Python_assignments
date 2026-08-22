@@ -1,0 +1,33 @@
+text = "Edukron Data Science and Data Engineering Batch 2026"
+
+Python String Indexing Questions
+
+Write the indexing expression to print "Edukron".
+Answer: print(text[0:7])
+
+Write the indexing expression to print "Data" (first occurrence).
+Answer: print(text[8:12])
+
+Write the indexing expression to print "Science".
+Answer: print(text[13:20])
+
+Write the indexing expression to print "and".
+Answer: print(text[21:24])
+
+Write the indexing expression to print "Data Engineering".
+Answer: print(text[25:41])
+
+Write the indexing expression to print "Engineering".
+Answer: print(text[30:41])
+
+Write the indexing expression to print "Batch".
+Answer: print(text[42:47])
+
+Write the indexing expression to print "2026".
+Answer: print(text[48:52])
+
+Write the indexing expression to print "Science and Data".
+Answer: print(text[13:29])
+
+Write the indexing expression to print "Data Science and Data Engineering Batch".
+Answer: print(text[8:41])
